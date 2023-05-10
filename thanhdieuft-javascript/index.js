@@ -1,4 +1,4 @@
-//////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
 function onCreate() {
   ShowToast();
 }
@@ -45,22 +45,22 @@ tick();
 
 function Youtube() {
   setTimeout(function() {
-    window.open('https://www.youtube.com/channel/UCiSP9FWliPIwG-w59dJdilQ', 'ultimate')},
+    window.open('https://youtube.com/@nobitadubai3671', 'ultimate')},
   100);
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/100035052735014', 'ultimate')},
+    window.open('https://www.facebook.com/cheater2023', 'ultimate')},
   100);
 }
 function Discord() {
   setTimeout(function() {
-    window.open('https://dsc.bio/WusThanhDieu', 'ultimate')},
+    window.open('https://discord.gg/DacsZDbS', 'ultimate')},
   100);
 }
 function Telegram() {
   setTimeout(function() {
-    window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
+    window.open('https://t.me/%2084352670783?zarsrc=1303&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&zdlink=Uo9XRcHoRsba8ZeYRt9dBdHbR6LdSc5jBcrbStDbRcTbSY8i8cblSo8wUo9pOsXbRMLVTN9i8ZeYUc5iRoqsE3OqD3auC3SwN2zSBo8i8c5mS6ba8ZeYDZWsD3GvE30t8drz', 'ultimate')},
   100);
 }
 
